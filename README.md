@@ -1,5 +1,5 @@
 # clusterTools
-The package “clustertools” contains functions for cluster analysis (include Diana Clustering Algoritm, Hybrid hierarchical k-means clustering algoritm and Searching for optimal count of clusters for a Data Set).
+The package “clusterTools” contains functions for cluster analysis (include Diana Clustering Algoritm, Hybrid hierarchical k-means clustering algoritm and Searching for optimal count of clusters for a Data Set).
 
 In particular, the functions are provided for identifying in the data of the trends to clustering: for сalculate the Hopkins’ statistic and for visualize Principal component analysis (PCA).
 Function 'dist' computes and returns the distance matrix computed by using the specified distance measure to compute the distances between the rows of a dataframe.
