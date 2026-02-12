@@ -1,4 +1,4 @@
-# clustertools
+# clusterTools
 The package “clustertools” contains functions for cluster analysis (include Diana Clustering Algoritm, Hybrid hierarchical k-means clustering algoritm and Searching for optimal count of clusters for a Data Set).
 
 In particular, the functions are provided for identifying in the data of the trends to clustering: for сalculate the Hopkins’ statistic and for visualize Principal component analysis (PCA).
